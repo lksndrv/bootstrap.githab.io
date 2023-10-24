@@ -183,3 +183,46 @@ img {
 .txt-label{
   font-family: Work Sans;
 }
+
+.marg-modal{
+  margin-top: 1rem;
+}
+
+
+@media (max-width: 650px) {
+  .h1 {
+    font-size: 1.4rem !important;
+  }
+  .h2 {
+    font-size: 1.3rem !important;
+  }
+  .fs-3 {
+    font-size: 0.8rem !important;
+  }
+  .fs-4 {
+    font-size: 0.8rem !important;
+  }
+  .fs-1 {
+    font-size: 0.9rem !important;
+  }
+  .fs-5 {
+    font-size: 0.7rem !important;
+  }
+  .btn-success {
+    font-size: 0.9rem;
+  }
+  .box-2 {
+    margin-top: 4rem;
+  }
+  .box-3 {
+    margin-top: 4rem;
+  }
+  .box-4 {
+    margin-top: 4rem;
+  }
+  .box-5 {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+  }
+}
